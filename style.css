@@ -1,0 +1,39 @@
+ /* @import url('https://fonts.googleapis.com/css2?family=Alien+Block&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans+JP:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+.bg{
+    height: 70vh;
+    width: 100vh;
+    background-color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
+.heading{
+    font-size: 32px;
+    color: aquamarine;
+    line-height: 50px;
+    word-spacing: 20px;
+    letter-spacing: 2px;
+    margin: 5ch;
+    font-weight: 900;
+    /* text shadow horizontal vertical blur-radius color; */
+    /* text-shadow: 0px 0px 5px black;
+    font-family: "Roboto Mono", monospace;  */
+
+/* height 100vh= 100%=912pixels(px)
+width = 100vw =100% = 1536px */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+ .box{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+
+
+ }
